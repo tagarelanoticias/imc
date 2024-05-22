@@ -1,0 +1,1 @@
+x = str(input('informe o primeiro numero:')).replace(',','.')
