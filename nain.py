@@ -3,7 +3,7 @@ import time
 
 # contador
 
-contador = int(input('informe um numero inteiro:')) 
+contador = int(input('informe um nu mero inteiro:')) 
 os.system('cls')
 
 while contador >= 0:
